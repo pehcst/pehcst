@@ -1,4 +1,4 @@
-# Hi there! ✌🏻, I'm using github.
+# Hi there! ✌🏻 I'm using github.
 ## A passionate frontend developer from Brazil 🇧🇷
 
 My name is Pedro and i'm passionate about developing web and mobile applications.<br/>
@@ -6,11 +6,8 @@ I like to create interface prototypes and since I was a child I found myself in 
 Self-taught by nature, I'm constantly evolving, always learning new things. <br/>
 
 👨🏻‍💻 I’m currently working at [Unimed Volta Redonda](http://www.unimedvr.com.br) as System Analyst. <br/>
-🦾😬Studying IA and ML at [PUC-Minuas](http://pucminas.br/).<br/>
-My love is React.js and React Native.<br/>
-
-![pehcst's github stats](https://github-readme-stats.vercel.app/api?username=pehcst&show_icons=true&hide=["contribs","prs","issues"])
-
+🦾😬 Studying IA and ML at [PUC-Minuas](http://pucminas.br/).<br/>
+My 💙 is React.js and React Native.<br/>
 
 ## Skills:
 
