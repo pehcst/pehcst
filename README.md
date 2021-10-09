@@ -5,8 +5,8 @@ My name is Pedro and i'm passionate about developing web and mobile applications
 I like to create interface prototypes and since I was a child I found myself in Front-End development. <br/>
 Self-taught by nature, I'm constantly evolving, always learning new things. <br/>
 
-👨🏻‍💻 I’m currently working at [Unimed Volta Redonda](http://www.unimedvr.com.br) as Solution Architect. <br/>
-🦾😬 Studying IA and ML at [PUC-Minuas](http://pucminas.br/).<br/>
+👨🏻‍💻 I’m currently working at [Unimed Volta Redonda](http://www.unimedvr.com.br) as Solution Architect. I'm also the founder of [Safe Saúde](http://www.sejasafe.com), I work in it as a front-end developer! <br/>
+🦾😬 Studying IA and ML at [PUC-Minuas](http://pucminas.br/).<br/><br/>
 My 💙 is React.js and React Native.<br/>
 
 ## Skills:
