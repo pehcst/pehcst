@@ -5,7 +5,7 @@ My name is Pedro and i'm passionate about developing web and mobile applications
 I like to create interface prototypes and since I was a child I found myself in Front-End development. <br/>
 Self-taught by nature, I'm constantly evolving, always learning new things. <br/>
 
-👨🏻‍💻 I’m currently working at [Parfin](http://www.parfin.io) as Software Engineer. I'm also a startup lover. <br/>
+👨🏻‍💻 I’m currently working as Software Engineer. I'm also a startup lover. <br/>
 My 💙 is React.js and React Native.<br/>
 
 ## Skills:
