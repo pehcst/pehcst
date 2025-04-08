@@ -1,42 +1,55 @@
-# Hi there! ✌🏻 I'm using github.
-## A passionate frontend developer from Brazil 🇧🇷
+# Pedro Costa 👋
 
-My name is Pedro and i'm passionate about developing web and mobile applications.<br/>
-I like to create interface prototypes and since I was a child I found myself in Front-End development. <br/>
-Self-taught by nature, I'm constantly evolving, always learning new things. <br/>
+Hi! I'm Pedro — a passionate frontend developer from Brazil 🇧🇷  
+Currently building products and startups with React, Angular, TypeScript and Node.js.  
+Startup lover, coffee addict, and always looking for clean code and meaningful impact.
 
-👨🏻‍💻 I’m currently working as Software Engineer. I'm also a startup lover. <br/>
-My 💙 is React.js and React Native.<br/>
+---
 
-## Skills:
+### 🧠 About Me
 
-✍🏼 &nbsp; Designing / Prototyping: <br/>
+- 🧑‍💻 Software Engineer focused on web and mobile apps  
+- 🚀 Startup builder (and breaker) — I love taking ideas from 0 to MVP  
+- 🧩 Passionate about UI/UX, microinteractions, and performance  
+- 🧘‍♂️ Into calisthenics, dark chocolate, and quiet mornings with my Kindle  
 
-![Figma](https://img.shields.io/badge/-Figma-2C2C2C?style=flat&logoColor=figma&logo=figma)&nbsp;
+---
 
-💻  &nbsp; Programming: <br/>
+### 🔧 Tech Stack
 
-![CHAKRA UI](https://img.shields.io/badge/Chakra-ui?style=flat&logoColor=fff&color=4FD1C5&logo=Chakra-ui)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
-![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;<br/>
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
+**Languages & Frameworks**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-## ⚡Facts:
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 
-Love dark chocolate.<br/>
-Calisthenics workout.<br/>
-Dofus player.<br/>
-after i bought my kindle, the world changed.<br/>
-My favorite colors are dark mode.<br />
+**Design & Prototyping**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## Follow me, Let's talk, get some coffee.
+---
 
-<p align="center">
-<a href="https://twitter.com/pehcst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pehcst" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/pehcst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pehcst" height="20" width="20" /></a>
-<a href="https://fb.com/pehcst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pehcst" height="20" width="20" /></a>
-<a href="https://instagram.com/pehcst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pehcst" height="20" width="20" /></a>
-</p>
+### 🛠 Side Projects
+
+- **Tattoofy** – SaaS platform for tattoo artists to handle bookings and client management  
+- **RepFit** – A workout check-in app built for gym accountability  
+- **Spendly** – Tool for managing subscriptions and personal finance  
+- **Mentor10** – A platform to connect mentors with mentees in a simple and efficient way  
+
+---
+
+### 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pehcst)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pehcst)
+[![Twitter/X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/pehcst)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/pehcst)
+
+---
+
+_"Build fast. Ship often. Stay curious."_ 🚀
