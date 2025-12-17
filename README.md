@@ -1,49 +1,52 @@
 # Pedro Costa 👋
 
-Hi! I'm Pedro — a passionate frontend developer from Brazil 🇧🇷  
-Currently building products and startups with React, Angular, TypeScript and Node.js.  
-Startup lover, coffee addict, and always looking for clean code and meaningful impact.
+Hi, I'm Pedro — a frontend-focused software engineer from Brazil 🇧🇷  
+I build digital products using **React, Angular, TypeScript, and Node.js**, with a strong focus on performance, usability, and scalable architectures.
+
+Startup-driven, product-oriented, and always working to turn ideas into production-ready solutions.
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🧑‍💻 Software Engineer focused on web and mobile apps  
-- 🚀 Startup builder (and breaker) — I love taking ideas from 0 to MVP  
-- 🧩 Passionate about UI/UX, microinteractions, and performance  
-- 🧘‍♂️ Into calisthenics, dark chocolate, and quiet mornings with my Kindle  
+- 🧑‍💻 Software Engineer specialized in web applications  
+- 🚀 Startup builder — from idea validation to MVP and growth  
+- 🎨 Strong interest in UI/UX, microinteractions, and clean design systems  
+- 📚 Enjoys calisthenics, dark chocolate, and quiet mornings with a Kindle  
 
 ---
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
-**Languages & Frameworks**  
+### Languages & Runtime
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-**Frontend**  
+### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 
-**Design & Prototyping**  
+### Design & Prototyping
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-### 🛠 Side Projects
+## 🛠 Side Projects
 
-- **Tattoofy** – SaaS platform for tattoo artists to handle bookings and client management  
-- **RepFit** – A workout check-in app built for gym accountability  
-- **Spendly** – Tool for managing subscriptions and personal finance  
-- **Mentor10** – A platform to connect mentors with mentees in a simple and efficient way  
+- **Tattoofy**  
+  SaaS platform for tattoo artists to manage bookings, clients, and daily operations.  
+  🔗 https://tattoofy.it
+
+- **Meu Trampo**  
+  Platform designed to help freelancers and autonomous professionals manage and promote their services.  
+  🔗 https://meutrampo.app
 
 ---
 
-### 📬 Let's connect
+## 📬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pehcst)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pehcst)
@@ -52,4 +55,4 @@ Startup lover, coffee addict, and always looking for clean code and meaningful i
 
 ---
 
-_"Build fast. Ship often. Stay curious."_ 🚀
+> _Build fast. Ship often. Stay curious._
